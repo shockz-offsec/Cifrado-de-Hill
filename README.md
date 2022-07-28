@@ -57,7 +57,3 @@ retorna: SECRET TEXT
 # Entorno de Pruebas
 
 Se proporciona el archivo ```Test_Hill.py```, el cual contiene varios test de las diversas funciones.
-
-## Author ✒️
-
-* **Jorge Manuel Lozano Gómez**
